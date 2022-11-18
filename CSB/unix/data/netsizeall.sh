@@ -6,3 +6,4 @@ do
 	echo $file $fila $columna>> netsize_all.txt
 
 done
+
